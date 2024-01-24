@@ -7,9 +7,6 @@
 
 <body>
 <table border="1" width="500">
-    <caption>
-        HTML Table using PHP Nested Loop Structure
-    </caption>
     <thead>
     <tr>
         <td colspan="8">
