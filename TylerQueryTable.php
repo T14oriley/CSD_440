@@ -16,7 +16,7 @@ CSD440 Assignment 8
 </head>
 <body>
 <?php
-$db = new mysqli("127.0.0.1", "student1", "pass", "movies");
+$db = new mysqli("127.0.0.1", "student1", "pass", "baseball_01");
 
 if ($db->connect_error) {
     die("Connection failed: " . $db->connect_error);
